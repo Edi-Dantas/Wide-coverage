@@ -9,8 +9,8 @@
   <p>-Responsividade</p>
 
   <div style="display: flex;">
-  <img src="https://github.com/Edi-Dantas/Wide-coverage/blob/master/img/Wide-coverage-desktop.png?raw=true" width="800px" />
+  <img src="https://github.com/Edi-Dantas/Wide-coverage/blob/master/img/Wide-coverage-desktop.png?raw=true" width="780px" />
 
-  <img src="https://github.com/Edi-Dantas/Wide-coverage/blob/master/img/Wide-coverage-cell.png?raw=true" width="200px" />
+  <img src="https://github.com/Edi-Dantas/Wide-coverage/blob/master/img/Wide-coverage-cell.png?raw=true" width="220px" />
 
 </div>
